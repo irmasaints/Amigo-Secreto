@@ -43,5 +43,5 @@ Este proyecto está construido con:
 ## 💡 Autor
 👤 Irma Nayeli Sánchez Santos 
  📧 Contacto: irmanayelisanchezsantos@gmail.com  
-🐙 GitHub: irmasaints  
+😺 GitHub: irmasaints  
 
