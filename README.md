@@ -38,3 +38,10 @@ Este proyecto está construido con:
 
 📌 **Recuerda**: No puedes sortear si la lista está vacía. ¡Asegúrate de agregar amigos antes de sortear!  
 
+---
+
+## 💡 Autor
+👤 Irma Nayeli Sánchez Santos 
+ 📧 Contacto: irmanayelisanchezsantos@gmail.com  
+🐙 GitHub: irmasaints  
+
