@@ -41,7 +41,8 @@ Este proyecto está construido con:
 ---
 
 ## 💡 Autor
-👤 Irma Nayeli Sánchez Santos 
- 📧 Contacto: irmanayelisanchezsantos@gmail.com  
-😺 GitHub: irmasaints  
+👤 Irma Nayeli Sánchez Santos  
+📧 Contacto: [irmanayelisanchezsantos@gmail.com](mailto:irmanayelisanchezsantos@gmail.com)  
+😺 GitHub: [irmasaints](https://github.com/irmasaints)
+
 
